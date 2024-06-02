@@ -1,1 +1,4 @@
-# Docker_tutorial
+**使用バージョン**
+
+- PHP 7.4.8
+- MySQL 8.1
